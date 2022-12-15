@@ -1,0 +1,16 @@
+.navbar {
+    margin-bottom: 3rem;
+}
+
+.navbar >div {
+    padding: 10px 30px;
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+.navbar > hr {
+    color: rgba(0, 0, 0, 0.481);
+    background-color: rgba(0, 0, 0, 0.346);
+    border:none;
+    height: 1px;
+}
